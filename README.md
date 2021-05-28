@@ -8,4 +8,4 @@ Small personal assistant created using python and libraries like pyttsx3, os etc
 4. Launching a website in incognito mode within command-line
 5. Launching editors(VS Code, Notepad, etc).
 
-### Link for Demo: https://cutt.ly/GnocNC2
+### Link for Demo: https://cutt.ly/XnobwTb
